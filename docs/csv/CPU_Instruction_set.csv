@@ -1,0 +1,11 @@
+Opcode (Hex),Assembly version,Description
+30,"set x,y",Sets a value in a memory address.
+31,"add x,y,z",Adds two values in memory addresses.
+32,jmp x,Jump to a memory address.
+33,"eq x,y,z",Checks if a value equals another value and will jump to the third memory address if the first to values are equal.
+34,N/A,"Not currently used, but reserved for future use."
+35,N/A,"Not currently used, but reserved for future use."
+36,N/A,"Not currently used, but reserved for future use."
+37,N/A,"Not currently used, but reserved for future use."
+38,N/A,"Not currently used, but reserved for future use."
+39,N/A,"Not currently used, but reserved for future use."
